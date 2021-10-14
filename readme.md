@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon_io.zip/favicon.ico">
 
 ![image](https://user-images.githubusercontent.com/91751962/137224224-7b9e8db4-5edf-423f-82c2-a76cd668d8c3.png)
 Blueprint:
