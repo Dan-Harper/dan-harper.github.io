@@ -1,5 +1,9 @@
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon_io.zip/favicon.ico?">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
 </head>
 
 ![image](https://user-images.githubusercontent.com/91751962/137224224-7b9e8db4-5edf-423f-82c2-a76cd668d8c3.png)
