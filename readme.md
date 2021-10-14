@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <head>
-  <title></title>
   <link rel="shortcut icon" type="image/x-icon" href="favicon_io.zip/favicon.ico?">
 </head>
 
