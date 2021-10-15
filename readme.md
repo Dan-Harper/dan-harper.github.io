@@ -17,4 +17,3 @@ Blueprint:
   
   Still unsure about favicon
 </body>
-</html>
