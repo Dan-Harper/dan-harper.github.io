@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/harperway/static/js/main.7f301d0f.chunk.js",
+    "main.js.map": "/harperway/static/js/main.7f301d0f.chunk.js.map",
+    "runtime-main.js": "/harperway/static/js/runtime-main.4d33a40b.js",
+    "runtime-main.js.map": "/harperway/static/js/runtime-main.4d33a40b.js.map",
+    "static/js/2.51e8fefb.chunk.js": "/harperway/static/js/2.51e8fefb.chunk.js",
+    "static/js/2.51e8fefb.chunk.js.map": "/harperway/static/js/2.51e8fefb.chunk.js.map",
+    "index.html": "/harperway/index.html",
+    "static/js/2.51e8fefb.chunk.js.LICENSE.txt": "/harperway/static/js/2.51e8fefb.chunk.js.LICENSE.txt",
+    "static/media/LOGO.de50f30e.svg": "/harperway/static/media/LOGO.de50f30e.svg",
+    "static/media/businessDeal.svg": "/harperway/static/media/businessDeal.3fe5bfe2.svg",
+    "static/media/investing.svg": "/harperway/static/media/investing.e7f525a8.svg",
+    "static/media/investmentData.svg": "/harperway/static/media/investmentData.7ac4f35d.svg",
+    "static/media/segmentAnalysis.svg": "/harperway/static/media/segmentAnalysis.2e44687a.svg",
+    "static/media/visualData.svg": "/harperway/static/media/visualData.0f4be9a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d33a40b.js",
+    "static/js/2.51e8fefb.chunk.js",
+    "static/js/main.7f301d0f.chunk.js"
+  ]
+}
